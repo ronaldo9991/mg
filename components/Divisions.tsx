@@ -20,7 +20,7 @@ const divisions = [
     tagline: 'From Fabric to Fashion, with Passion',
     icon: Shirt,
     address: 'Suganthi Complex, Thanneerpandal, Coimbatore – 641004',
-    phone: '+91-94899-88220 / +91-88254-45672',
+    phone: '+91-94899-88220',
     email: 'garments@mggroup.com',
     services: ['T-shirts & Polos', 'Sweatshirts & Hoodies', 'Screen Printing', 'DTG & Sublimation'],
     href: '/garments'

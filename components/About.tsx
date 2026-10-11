@@ -84,7 +84,7 @@ const divisions = [
     tagline: 'From Fabric to Fashion, with Passion',
     icon: Shirt,
     address: 'Suganthi Complex, Thanneerpandal, Coimbatore – 641004',
-    phone: '+91-94899-88220 / +91-88254-45672',
+    phone: '+91-94899-88220',
     email: 'garments@mggroup.com',
     services: ['T-shirts & Polos', 'Sweatshirts & Hoodies', 'Screen Printing', 'DTG & Sublimation'],
     description: 'Under the motto "From Fabric to Fashion, with Passion," MG Garments provides high-quality, bulk apparel manufacturing and custom-printing services. Our product range spans T-shirts, polo shirts, hoodies, and sweatshirts—available in cotton, polyester, blends, and organic fabrics. Leveraging screen printing, DTG, sublimation, and embroidery, we serve corporate events, educational institutions, and retail brands.',
